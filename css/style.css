@@ -496,7 +496,7 @@ a {
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  background: url("/img/icon.png") #88acdb;
+  background: #88acdb;
   -webkit-transition: all 0.2s ease-in;
   display: -webkit-box;
   -webkit-box-orient: horizontal;
